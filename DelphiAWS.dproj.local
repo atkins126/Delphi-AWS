@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/03/08 21:25:28.239,=C:\Users\Leo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/08 21:27:09.197,C:\Users\Leo\Documents\GitHub\Delphi-AWS\Boss\frmPrincipalBoss.dfm=C:\Users\Leo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/08 21:27:09.197,C:\Users\Leo\Documents\GitHub\Delphi-AWS\Boss\frmPrincipalBoss.pas=C:\Users\Leo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/08 21:27:21.911,C:\Users\Leo\Documents\GitHub\Delphi-AWS\DelphiAWS.dproj=C:\Users\Leo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
